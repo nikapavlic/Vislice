@@ -3,6 +3,7 @@
 ## Avtorji
 * Nika Pavlič
 * Anja Petkovič
+* Matija Pretnar
 
 ## Opis
 
