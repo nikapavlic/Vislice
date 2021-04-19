@@ -3,6 +3,7 @@
 ## Avtorji
 * Nika Pavlič
 * Anja Petkovič
+* adi smolar
 
 ## Opis
 
