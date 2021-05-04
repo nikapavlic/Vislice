@@ -10,6 +10,7 @@ def izpis_igre(igra):
 #################################\n"""
     return tekst
 
+    
 def izpis_zmage(igra):
     tekst = f"""#################################\n
     Bravo! Zmagali ste!\n
