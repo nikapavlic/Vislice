@@ -4,7 +4,7 @@ import model
 SKRIVNOST = 'moja skrivnost'
 
 #treba pisat model.Vislice() drugače neve od kod je
-vislice = model.Vislice()
+vislice = model.Vislice(model.DATOTEKA_S_STANJEM)
 
 
 @bottle.get('/')
